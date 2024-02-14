@@ -1,0 +1,3 @@
+enum PdfCrossReferenceTableSectionEntryEnding {
+  f, n;
+}
